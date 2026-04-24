@@ -1,5 +1,6 @@
 # Diabetes-and-Depression-Study
 (currently working on daily ) 
+Tableau Link : https://public.tableau.com/app/profile/nikki.davis1703/viz/Diabetes_Depression_Study_Distributions/DiabetesandDepression
 ## Overview
 This project analyzes relationships between diabetes, depression (PHQ‑9), BMI, and demographic factors using publicly available NHANES data. The goal is to explore how chronic disease, mental health, and social determinants intersect, using statistical tests and visualizations to highlight disparities and associations.
 The repository includes:
